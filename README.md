@@ -1,2 +1,0 @@
-# EventManagement
-job done app
